@@ -1,0 +1,9 @@
+# Python runtime: 3.11.9
+numpy==1.26.4
+pandas==3.0.3
+scikit-learn==1.8.0
+xgboost==3.2.0
+joblib==1.4.2
+scipy==1.17.1
+threadpoolctl==3.6.0
+matplotlib==3.10.9
